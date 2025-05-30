@@ -1,4 +1,0 @@
-plotly
-networkx
-pandas
-jupyterlmod
